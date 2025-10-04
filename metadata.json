@@ -1,0 +1,5 @@
+{
+  "name": "Modern React Login UI",
+  "description": "A sleek and secure login interface built with React, TypeScript, and Tailwind CSS. It simulates authentication against a modern backend, providing a template for a scalable web application frontend that complements a .NET 8 architecture.",
+  "requestFramePermissions": []
+}
